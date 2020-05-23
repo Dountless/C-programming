@@ -1,4 +1,4 @@
-What is the difference between linux and windows and unix?
+Q.What is the difference between linux and windows and unix?
 
 ans.  Linux is open source OS operating system whereas window is a paid OS
 Linux and Unix is a same and Linux is based on Unix
@@ -7,7 +7,7 @@ Linux and Unix is a same and Linux is based on Unix
 
 
 
-Task: what is the partition types
+Q.Task: what is the partition types
 
 And what types of partitions different operating systems uses ?
 And why ?
@@ -22,7 +22,7 @@ And MBR 2TB tak ki hard disk tak support kar sakta Hai but GPT 4TB ya usse jyda 
 
 or
 
-Hmm... 1.what is partition typ? 
+ans. Hmm... 1.what is partition typ? 
 There are basically three partation types it is primary,  extended and logical partition 
 1. Primary PARTITION-OS are installed in those partition known as primary partition 
 2. Extended or Logical-except primary all are extended partition and this extended partition have sub-devided portion and this sub-par divided portion called as logical partition ...
