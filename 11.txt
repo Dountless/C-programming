@@ -1,2 +1,7 @@
+<<<<<<< HEAD
+this is sarah version
+dwdddddd
+=======
 thi is max version 
 hhhhh
+>>>>>>> max
